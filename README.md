@@ -1,16 +1,20 @@
 ## Hi there  My name is Wallace👋
 
-<!--
-**Wallace676/Wallace676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on: Front-end projects with HTML, CSS and JavaScript  
+
+🌱 I’m currently learning: JavaScript fundamentals and DOM manipulation  
+
+👯 I’m looking to collaborate on: Front-end and responsive web projects   
+
+💬 Ask me about: HTML structure, CSS styling and basic JS  
+
+📫 How to reach me: LinkedIn – (https://www.linkedin.com/in/wallace-ferreira-de-jesus-3802a1234/)  
+
+😄 Pronouns: He/Him  
+
+⚡ Fun fact: Improving my skills every single day 🚀
+
+
 -->
